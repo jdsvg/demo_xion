@@ -406,7 +406,7 @@ Funcionamiento de Store, Reducers, y Actions:
  
  Login
   
- ![image](https://user-images.githubusercontent.com/52754373/159178748-d6bc978f-688a-4320-a87c-75b8273cade6.png)
+ ![image](https://user-images.githubusercontent.com/52754373/159178920-3cfd6b8f-6396-4c33-899a-c4501a3dc33c.png)
 
 Contacts
     
