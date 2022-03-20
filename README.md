@@ -402,7 +402,7 @@ Funcionamiento de Store, Reducers, y Actions:
 
 ---
 
-    Muestras:
+# Muestras
  
  Login
   
