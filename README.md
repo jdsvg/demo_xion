@@ -401,9 +401,17 @@ Funcionamiento de Store, Reducers, y Actions:
     - Cuando hay relación entre el evento escuchado por reducers y la parametrización en Types, se genera la **actualización** de los **estados** en **actions**, la cual es devuelta a los **reducers** y así la **Store** sostiene nuevamente la **información actualizada** de los estados
 
 ---
+
+    Muestras:
+ 
+ Login
   
-  
-  
+ ![image](https://user-images.githubusercontent.com/52754373/159178748-d6bc978f-688a-4320-a87c-75b8273cade6.png)
+
+Contacts
+    
+ ![image](https://user-images.githubusercontent.com/52754373/159178795-a9370e71-b524-4d2b-b2ff-62fe2920eb85.png)
+
   
   
   
