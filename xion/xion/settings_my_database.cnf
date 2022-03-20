@@ -1,0 +1,7 @@
+[client]
+database = xion_db
+user = root
+port = 3306 
+#password = <password> #Comentar si no tiene password
+host = 127.0.0.1
+default-character-set = utf8
